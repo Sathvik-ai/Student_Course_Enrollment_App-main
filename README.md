@@ -1,2 +1,11 @@
-# Student_Course_Enrollment_App-main
-Streamline course registration! Easily browse available courses, view prerequisites, check course availability, and enroll in desired classes. Manage your schedule, make changes, and receive notifications. Accessible and user-friendly platform for students. Using Java
+# Student_Course_Enrollment
+JAVA OOP PROJECT - This project is about Student Enrollment App where student can enroll in subject and pay
+
+Features in my code:
+-Package
+-Inheritance
+-Polymorphism
+-Exception Handling
+-And more
+
+HOW TO RUN: save all in one folder and run the StudentDatabaseApp.java. It will read the other file from studentdatabaseapp folder
